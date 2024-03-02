@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Parker-Isaacson
+- 🌱 I’m currently learning C, C++
+- 📫 I can be reached through email
