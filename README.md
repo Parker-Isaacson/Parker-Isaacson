@@ -7,7 +7,7 @@ I am a developer who likes to work on personal projects just to learn. Spend som
 - Qur: My own C-Style Compiled Langauge.
   - Currently stuck on debugging the parser, though most of the AST Node types have been implement.
   - Once I get this done I will need to add assembly to each node.
-- KeyTime ( Private ): C# Macroing software that permits the user to design macros in a timeline fashion.
+- KeyTime: C# Macroing software that permits the user to design macros in a timeline fashion.
   - Currently designing the timeline.
   - Once the timeline is desigined and developed I'll add settings so users can customize the software to there liking.
 - Bish: My own shell, play on bash.
