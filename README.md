@@ -42,3 +42,5 @@ These are some breifs on what I want to work on, breif descriptions as I don't q
   - Use math and interpret qualities like brightness, contrast, exposure to determine score.
 - Database
   - Will likely just be another parser... though for SQL this time.
+- Webserver
+  - NGINX or Apache remake, just to get more into baremetal ideas.
