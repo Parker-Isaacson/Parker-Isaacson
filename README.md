@@ -11,6 +11,7 @@ I am a developer who likes to work on personal projects just to learn. Spend som
 
 This is a reverse chronological list of the projects that I consider complete, though I may come back to them later! The projects that are *iltaicized* are repos that I may come back to and update later.
 
+- Crosshairy: A crosshair tool like Crosshair X, its not hairy.
 - *Qur*: C-Style compiled langauge.
   - Does not contain assembly, may be fixed later.
 - *KeyTime*: C# Macroing software that permits the user to design macros in a timeline fashion.
